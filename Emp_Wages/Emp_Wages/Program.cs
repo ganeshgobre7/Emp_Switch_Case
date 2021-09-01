@@ -14,6 +14,9 @@ namespace Emp_Wages
             int Emp_Part_Time = 4;  
             int Per_Hour_Sal = 20;
             int Total_Sal = 0;
+            int Num_Work_Day = 20; ;
+
+            for(int day=0; day < Num_Work_Day; day++)
 
             switch (empCheck)
             {
