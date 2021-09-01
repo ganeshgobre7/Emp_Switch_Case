@@ -1,0 +1,14 @@
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.csproj.AssemblyReference.cache
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.GeneratedMSBuildEditorConfig.editorconfig
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.AssemblyInfoInputs.cache
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.AssemblyInfo.cs
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.csproj.CoreCompileInputs.cache
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\bin\Debug\netcoreapp3.1\Emp_Wages.exe
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\bin\Debug\netcoreapp3.1\Emp_Wages.deps.json
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\bin\Debug\netcoreapp3.1\Emp_Wages.runtimeconfig.json
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\bin\Debug\netcoreapp3.1\Emp_Wages.runtimeconfig.dev.json
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\bin\Debug\netcoreapp3.1\Emp_Wages.dll
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\bin\Debug\netcoreapp3.1\Emp_Wages.pdb
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.dll
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.pdb
+D:\B.LAB\Practice C sharp\Emp_Wages\Emp_Wages\obj\Debug\netcoreapp3.1\Emp_Wages.genruntimeconfig.cache
